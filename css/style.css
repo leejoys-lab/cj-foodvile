@@ -386,6 +386,7 @@ position: relative;}
 .con-box h3 strong{
     font-size: 55px;
 }
+.con-box h3 span {color:#E83833;}
 .con-box p.more{
     margin-top: 70px;
 }
@@ -405,7 +406,7 @@ position: relative;}
 .about .inner{padding: 180px 0;}
 .about h2{}
 .about h3{}
-.about h3 strong{}
+.about h3 strong {}
 .about p.more{}
 .about p.more a{}
 .about p.more i{}
